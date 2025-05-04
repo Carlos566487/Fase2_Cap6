@@ -1,0 +1,20 @@
+[
+    {
+        "id_maquina": "Maq001",
+        "nome_maquina": "Colhedora-Auto1",
+        "area_colhida_ha": 1000.0,
+        "total_produzido_t": 10000.0,
+        "estimativa_t_ha": 1.0,
+        "perda_estimativa_t": -9000.0,
+        "data_colheita": "04/05/2025"
+    },
+    {
+        "id_maquina": "Maq002",
+        "nome_maquina": "Colhedora-Auto2",
+        "area_colhida_ha": 2000.0,
+        "total_produzido_t": 100000.0,
+        "estimativa_t_ha": 3.0,
+        "perda_estimativa_t": -94000.0,
+        "data_colheita": "04/05/2025"
+    }
+]

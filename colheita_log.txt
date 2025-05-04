@@ -1,0 +1,235 @@
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 100.0
+total_produzido_t: 2.0
+estimativa_t_ha: 100.0
+perda_estimativa_t: 9998.0
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 180.0
+total_produzido_t: 1.0
+estimativa_t_ha: 1.0
+perda_estimativa_t: 179.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 100.0
+total_produzido_t: 5.0
+estimativa_t_ha: 4.0
+perda_estimativa_t: 395.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 100.0
+total_produzido_t: 2.0
+estimativa_t_ha: 1.0
+perda_estimativa_t: 98.0
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 500.0
+total_produzido_t: 1.0
+estimativa_t_ha: 1.0
+perda_estimativa_t: 499.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 500.0
+total_produzido_t: 1000.0
+estimativa_t_ha: 1.0
+perda_estimativa_t: -500.0
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 600.0
+total_produzido_t: 1200.0
+estimativa_t_ha: 2.0
+perda_estimativa_t: 0.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 500.0
+total_produzido_t: 5.0
+estimativa_t_ha: 8.0
+perda_estimativa_t: 3995.0
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 600.0
+total_produzido_t: 10.0
+estimativa_t_ha: 8.0
+perda_estimativa_t: 4790.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 2000.0
+total_produzido_t: 20000.0
+estimativa_t_ha: 10.0
+perda_estimativa_t: 0.0
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 3000.0
+total_produzido_t: 18000.0
+estimativa_t_ha: 5.0
+perda_estimativa_t: -3000.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 2000.0
+total_produzido_t: 20000.0
+estimativa_t_ha: 8.0
+perda_estimativa_t: -4000.0
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 3000.0
+total_produzido_t: 30000.0
+estimativa_t_ha: 6.0
+perda_estimativa_t: -12000.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 2000.0
+total_produzido_t: 20000.0
+estimativa_t_ha: 6.0
+perda_estimativa_t: -8000.0
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 3000.0
+total_produzido_t: 30000.0
+estimativa_t_ha: 10.0
+perda_estimativa_t: 0.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 1000.0
+total_produzido_t: 10000.0
+estimativa_t_ha: 6.0
+perda_estimativa_t: -4000.0
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 2000.0
+total_produzido_t: 20000.0
+estimativa_t_ha: 5.0
+perda_estimativa_t: -10000.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 2000.0
+total_produzido_t: 20000.0
+estimativa_t_ha: 6.0
+perda_estimativa_t: -8000.0
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 3000.0
+total_produzido_t: 30000.0
+estimativa_t_ha: 11.0
+perda_estimativa_t: 3000.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 20000.0
+total_produzido_t: 20000.0
+estimativa_t_ha: 1.0
+perda_estimativa_t: 0.0
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 30.0
+total_produzido_t: 1.0
+estimativa_t_ha: 1.0
+perda_estimativa_t: 29.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 1000.0
+total_produzido_t: 10000.0
+estimativa_t_ha: 1.0
+perda_estimativa_t: -9000.0
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 2000.0
+total_produzido_t: 20000.0
+estimativa_t_ha: 1.0
+perda_estimativa_t: -18000.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 2000.0
+total_produzido_t: 20000.0
+estimativa_t_ha: 2.0
+perda_estimativa_t: -16000.0
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 2000.0
+total_produzido_t: 30000.0
+estimativa_t_ha: 1.0
+perda_estimativa_t: -28000.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 500.0
+total_produzido_t: 3000.0
+estimativa_t_ha: 5.0
+perda_estimativa_t: -500.0
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 400.0
+total_produzido_t: 1600.0
+estimativa_t_ha: 3.0
+perda_estimativa_t: -400.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 100.0
+total_produzido_t: 10.0
+estimativa_t_ha: 1.0
+perda_estimativa_t: 90.0
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 100.0
+total_produzido_t: 10.0
+estimativa_t_ha: 2.0
+perda_estimativa_t: 190.0
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 100.0
+total_produzido_t: 2.0
+estimativa_t_ha: 1.0
+perda_estimativa_t: 98.0
+data_colheita: 2025-05-04 10:21:34.930964
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 1000.0
+total_produzido_t: 10000.0
+estimativa_t_ha: 2.0
+perda_estimativa_t: -8000.0
+data_colheita: 2025-05-04 10:22:43.441477
+------------------------------
+id_maquina: Maq001
+nome_maquina: Colhedora-Auto1
+area_colhida_ha: 1000.0
+total_produzido_t: 10000.0
+estimativa_t_ha: 1.0
+perda_estimativa_t: -9000.0
+data_colheita: 04/05/2025
+------------------------------
+id_maquina: Maq002
+nome_maquina: Colhedora-Auto2
+area_colhida_ha: 2000.0
+total_produzido_t: 100000.0
+estimativa_t_ha: 3.0
+perda_estimativa_t: -94000.0
+data_colheita: 04/05/2025
+------------------------------
